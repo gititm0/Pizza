@@ -134,3 +134,5 @@ while want_order_pizza == '1':
     order()
     want_order_pizza = input("To add an order - choose 1: ")
 
+
+print("fhjfryurkyktir")
